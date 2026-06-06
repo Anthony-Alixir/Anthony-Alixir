@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anthony%20(from%20Alixir's%20web%20studio)&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Application%20Designer%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anthony%20(from%20Alixir's%20web%20studio)&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Application%20Designer%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Anthony-Alixir">
