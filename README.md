@@ -109,12 +109,19 @@
 
 ## 🔗 Connect with Me
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/anthonydegeilh/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/alixir-web-studio/">
-    <img src="https://cdn.discordapp.com/attachments/1467736491097854009/1512551975085019268/LinkedIn_Alixir.png?ex=6a24814c&is=6a232fcc&hm=0e400380ea965ed94b601b4683116a5c765e9177bb9aba9e9cf4d64a77e797ed&" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <!-- Espaces insécables -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn Alixir -->
+  <!--   <a href="https://www.linkedin.com/company/alixir-web-studio/">
+    <img src="<img width="200" height="200" alt="LinkedIn_Alixir" src="https://github.com/user-attachments/assets/3087fe7c-7e00-4122-9975-eccd905cf244" />?ex=6a24814c&is=6a232fcc&hm=0e400380ea965ed94b601b4683116a5c765e9177bb9aba9e9cf4d64a77e797ed&" alt="LinkedIn" width="40" />
+  </a> -->
+  <!-- Espaces insécables -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Site perso -->
   <a href="anthonydegeilh.fr">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
